@@ -1,0 +1,7 @@
+{
+  "bias_type": "sunk_cost | anchoring | confirmation_bias | loss_aversion | none",
+  "secondary_bias": "one of the above or null",
+  "confidence_score": 0.0,
+  "trigger_phrases": ["exact quotes from the entry"],
+  "reasoning": "1-2 sentences explaining why this bias, referencing the phrases"
+}
